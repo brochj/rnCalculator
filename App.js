@@ -218,6 +218,7 @@ const styles = StyleSheet.create({
         flex: 1,
         paddingTop: 25,
         backgroundColor: '#fff',
+        
     },
     linha: {
         flex: 1,
